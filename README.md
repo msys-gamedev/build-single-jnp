@@ -6,3 +6,6 @@ v1.0.0
 
 v1.0.1
 -Update multiplayer link
+
+v1.0.2
+-Update webgl template
