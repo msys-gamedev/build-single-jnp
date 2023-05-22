@@ -12,3 +12,6 @@ v1.0.2
 
 v1.0.3
 -Link main scene button multiplayer
+
+v1.0.4
+-Update API
